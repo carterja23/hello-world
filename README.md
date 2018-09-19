@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+VCU senior looking to transition from Mechanical Engineering into software development.
